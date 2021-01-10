@@ -19,4 +19,3 @@ VSC2019_ORTEC_early_13.csv - instance for which the algorithm(s) provides a feas
 VSC2019_ORTEC_early_15.csv - instance for which the algorithm(s) provides a feasible solution
 VSC2019_ORTEC_early_19.csv - instance for which the algorithm(s) provides a feasible solution
 VSC2019_ORTEC_early_25.csv - instance for which the algorithm(s) provides a feasible solution
-
