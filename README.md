@@ -4,6 +4,7 @@ My solution to the VeRoLog Solver Challenge 2019. I have removed the names of th
 In the All Instances folder I have provided a folder with all the instances provided by ORTEC for this problem. 
 
 In the Algorithms folder I have provided the algorithms used to solve the problem, as well as files provided by ORTEC to check the validity of the solution:
+
 baseParser.py - code used to check the validity of the solution
 InstanceVerolog2019.py - code used to check the validity of the solution
 makeSolutionFile.py - code to change the solution calculated by the algorithm into the right format in order to test the solution
